@@ -1,0 +1,1 @@
+{dnum: [div for div in range(1, dnum + 1) if dnum % div == 0] for dnum in numbers}

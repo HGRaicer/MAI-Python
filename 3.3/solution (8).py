@@ -1,0 +1,1 @@
+" - ".join(str(symb) for symb in sorted(set(numbers)))
